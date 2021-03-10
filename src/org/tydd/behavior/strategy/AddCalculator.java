@@ -1,4 +1,4 @@
-package org.tydd.structure.strategy;
+package org.tydd.behavior.strategy;
 
 /**
  * @ Author ：mk
